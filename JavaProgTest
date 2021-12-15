@@ -1,0 +1,8 @@
+class String_cs
+{
+public static void main(String[] args)
+{
+String obj = "I Love Java";
+System.out.println(obj.length());
+}
+}
